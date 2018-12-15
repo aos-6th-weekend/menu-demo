@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Download ..."
+        android:icon="@drawable/ic_search_white_24dp"
+        android:id="@+id/download"/>
+    <item android:title="share ..."
+        android:icon="@drawable/ic_search_white_24dp"
+        android:id="@+id/share"
+        />
+    <item android:title="get link"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:id="@+id/getLink"/>
+</menu>
